@@ -2,6 +2,14 @@
 
 This project aims to create a Power BI dashboard to select the best 11 players from 16 teams of T20 World Cup 2022 based on multiple criteria.
 
+## Steps
+Data collection using web scraping from ESPN Cricinfo website
+Data cleaning and transformation in Python Pandas
+Data transformation in Power Query
+Data modeling and building parameters using DAX
+Build dashboard in Power BI
+Collect insights from the dashboard and select the final 11 players
+
 ## Data Sources
 
 The data for this project was scraped from [ESPN Cricinfo], a website that provides comprehensive coverage of cricket news, scores, and statistics. The data contains information about the players' performance in the T20 format, such as batting average, strike rate, bowling average, economy rate, etc.
