@@ -4,10 +4,15 @@ This project aims to create a Power BI dashboard to select the best 11 players f
 
 ## Steps
 Data collection using web scraping from ESPN Cricinfo website
+
 Data cleaning and transformation in Python Pandas
+
 Data transformation in Power Query
+
 Data modeling and building parameters using DAX
+
 Build dashboard in Power BI
+
 Collect insights from the dashboard and select the final 11 players
 
 ## Data Sources
